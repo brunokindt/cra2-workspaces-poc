@@ -1,5 +1,5 @@
 {
-    "name": "@project/comp-one",
+    "name": "@project/comp-two",
     "version": "1.0.0",
     "main:src": "src/index.js",
     "dependencies": {

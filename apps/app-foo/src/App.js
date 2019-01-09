@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import CompOne from '@project/comp-one';
+import CompTwo from '@project/comp-two';
 
 class App extends Component {
     render() {
@@ -21,6 +22,7 @@ class App extends Component {
                 Learn React
             </a>
             <CompOne />
+            <CompTwo />
             </header>
         </div>
         );
