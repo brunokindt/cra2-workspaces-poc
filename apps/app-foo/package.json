@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "@f1lt3r/react-scripts": "2.1.1-zeta-001",
-    "react": "^16.6.3",
+    "react": "^16.7.0",
     "react-dom": "^16.6.3",
-    "react-redux": "~5.1.1",
+    "react-redux": "^6.0.0",
     "redux": "^4.0.1",
     "redux-saga": "^0.16.2"
   },
